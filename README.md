@@ -42,9 +42,13 @@ To get a local copy up and running, follow these steps:
 cd Netflix-Clone
 
 📧 Contact
-Satyajit Behera
+Name: Satyajit Behera
+
 Email: mail.bsatyajit@gmail.com
+
 GitHub: codewithbsatyajit
+
 Instagram: @bsatyajit_
+
 LinkedIn: Satyajit Behera
 
