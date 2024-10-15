@@ -137,16 +137,17 @@ body {
 }
 
 .form__container {
-	border-radius: 6px;
-	background-color: white;
 	width: 90%;
 	height: 50px;
 	position: relative;
+	background-color: transparent;
+	border: 1px solid white;
+	border-radius: 6px;
+	opacity: 0.9;
 }
 
 .email__input:focus+.email__label {
 	top: 0.2rem;
-	background-color: transparent;
 	font-size: 10px;
 }
 
@@ -156,6 +157,7 @@ body {
 }
 
 .email__input:focus-visible {
+	color: white;
 	outline: none;
 }
 
