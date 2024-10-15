@@ -146,6 +146,7 @@ body {
 
 .email__input:focus+.email__label {
 	top: 0.2rem;
+	background-color: transparent;
 	font-size: 10px;
 }
 
